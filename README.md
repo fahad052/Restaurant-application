@@ -1,4 +1,4 @@
-# flutter_application_1231
+# Restaurant application
 
 A new Flutter project.
 
